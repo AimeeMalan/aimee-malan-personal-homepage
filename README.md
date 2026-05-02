@@ -4,7 +4,7 @@ A personal homepage and CV built with plain HTML and CSS, hosted via GitHub Page
 
 ## About
 
-A single-page static site featuring a professional profile, career history, education, and contact details for Aimee Malan — Strategic Sales Consultant based in Cape Town, South Africa.
+A single-page static site featuring a professional profile, career history, education, and contact details for Aimee Malan. 
 
 ## Stack
 
